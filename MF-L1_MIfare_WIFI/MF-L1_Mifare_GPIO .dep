@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2357035000</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\gpio_if.o</file>
+      <file>$PROJ_DIR$\..\common\udma_if.c</file>
+      <file>$PROJ_DIR$\..\common\utils_if.c</file>
+      <file>$PROJ_DIR$\..\common\uart_if.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart_if.pbi</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\objInclusion.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart_if.o</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\driver.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\adc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio_if.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.o</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\netapp.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\trace.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\nonos.pbi</file>
+      <file>$PROJ_DIR$\..\common\common.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\udma.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c_if.o</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\fs.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\MF-L1_Mifare_GPIO1122.bin</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\spawn.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\cc_pal.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\socket.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>C:\TI\CC3200SDK_1.3.0\cc3200-sdk\oslib\osi.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\wlan_rx_filters.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\nonos.o</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\simplelink.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_if.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\MF-D1_Mifare_GPIO.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\utils_if.pbi</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_udma.h</file>
+      <file>$PROJ_DIR$\iso14443a.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pinmux.pbi</file>
+      <file>$PROJ_DIR$\..\common\uart_if.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\debug.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_common_reg.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\timer.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_i2c.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\utils_if.o</file>
+      <file>$PROJ_DIR$\..\..\driverlib\interrupt.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink_extlib\provisioninglib\provisioning_api.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_memmap.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\i2c.h</file>
+      <file>$PROJ_DIR$\..\common\i2c_if.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\..\common\timer_if.c</file>
+      <file>$PROJ_DIR$\..\common\timer_if.h</file>
+      <file>$PROJ_DIR$\..\common\startup_ewarm.c</file>
+      <file>$PROJ_DIR$\gpio_if.c</file>
+      <file>$PROJ_DIR$\pinmux.c</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\nonos.c</file>
+      <file>$PROJ_DIR$\types.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_types.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\MF-L1_Mifare_GPIO .pbd</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\netcfg.h</file>
+      <file>$PROJ_DIR$\rc522.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\pin.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\udma_if.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c_if.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\prcm.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\protocol.h</file>
+      <file>$PROJ_DIR$\gpio_if.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_uart.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\utils.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_map.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\gpio.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\spi.h</file>
+      <file>$PROJ_DIR$\pinmux.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\user.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\..\common\utils_if.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.pbi</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_ints.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\hwspinlock.h</file>
+      <file>$PROJ_DIR$\..\common\i2c_if.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_if.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\wlan.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_patch.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\device.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\udma_if.o</file>
+      <file>$PROJ_DIR$\..\common\udma_if.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pinmux.o</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_apps_rcm.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\udma_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41 18 91 96 62 77 75 70 46 87 34 17 99 74 69 83 49 60 85 79 44 73 27 47 19 26 13 95</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\utils_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 80 74 85 69 60 88 41 96 62 78 49 77 70 19 95 93</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\uart_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74 41 26 73 60 27 69 96 47 13 70 77 62 46 91 95 18 83 49 66 85 37 19 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\MF-D1_Mifare_GPIO.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\i2c_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 96 62 66 41 49 89 18 42 77 74 69 93 60 87 50 85 70 19 91 95 78</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 39 65 46 48 27 30 95 70 81 69 26 21 60 77 76 15 72 40 74 41 97 35 91 83 92 87 49 85 44 73 8 99 37 79 89 84 54 96 62 82 5 11 28 78 18 19 12 25 64 23 24 59 13 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\timer_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 90</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 44 27 41 87 85 91 19 46 49 38 40 77 18 54 95 96 74 62 69 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\startup_ewarm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87 60 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\gpio_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 72 19 70 101 91 87 66 77 18 47 41 95 60 49 44 79 85 37 27 74 96 62 69 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pinmux.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 66 49 77 60 63 85 79 95 81</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\simplelink\source\nonos.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 21 97 48 27 46 19 7 82 5 11 28 83 41 71 12 25 92 64 23 24 91 26 74 96 62 69</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\common\udma_if.c</file>
+      <file>$PROJ_DIR$\..\common\utils_if.c</file>
+      <file>$PROJ_DIR$\..\common\uart_if.c</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\gpio_if.o</file>
+      <file>$PROJ_DIR$\Release\Obj\nonos.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\timer_if.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\i2c_if.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\udma_if.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\uart_if.o</file>
+      <file>$PROJ_DIR$\Release\Obj\timer_if.o</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\objInclusion.h</file>
+      <file>$PROJ_DIR$\Release\Obj\utils_if.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\nonos.o</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$PROJ_DIR$\Release\Obj\utils_if.o</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\driver.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\nonos.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\adc.h</file>
+      <file>$PROJ_DIR$\Release\Exe\L1_Mifare_Battery_20181026.bin</file>
+      <file>$PROJ_DIR$\Release\Exe\MF-L1_Mifare_GPIO.out</file>
+      <file>$PROJ_DIR$\Release\Obj\startup_ewarm.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\uart_if.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\udma_if.o</file>
+      <file>$PROJ_DIR$\Release\Obj\i2c_if.o</file>
+      <file>$PROJ_DIR$\Release\Obj\gpio_if.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\pinmux.o</file>
+      <file>$PROJ_DIR$\Release\Obj\startup_ewarm.o</file>
+      <file>$PROJ_DIR$\Release\Obj\pinmux.pbi</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\netapp.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\trace.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\..\common\common.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\fs.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\cc_pal.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\socket.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\wlan_rx_filters.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\simplelink.h</file>
+      <file>$PROJ_DIR$\iso14443a.h</file>
+      <file>$PROJ_DIR$\..\common\uart_if.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_common_reg.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\timer.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\interrupt.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink_extlib\provisioninglib\provisioning_api.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_memmap.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\i2c.h</file>
+      <file>$PROJ_DIR$\..\common\i2c_if.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\..\common\timer_if.c</file>
+      <file>$PROJ_DIR$\..\common\timer_if.h</file>
+      <file>$PROJ_DIR$\..\common\startup_ewarm.c</file>
+      <file>$PROJ_DIR$\gpio_if.c</file>
+      <file>$PROJ_DIR$\pinmux.c</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\nonos.c</file>
+      <file>$PROJ_DIR$\types.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_types.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\netcfg.h</file>
+      <file>$PROJ_DIR$\rc522.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\pin.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\prcm.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\source\protocol.h</file>
+      <file>$PROJ_DIR$\gpio_if.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\utils.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_map.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\gpio.h</file>
+      <file>$PROJ_DIR$\pinmux.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\user.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\..\common\utils_if.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_ints.h</file>
+      <file>$PROJ_DIR$\..\common\i2c_if.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\wlan.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\..\..\driverlib\rom_patch.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\simplelink\include\device.h</file>
+      <file>$PROJ_DIR$\..\common\udma_if.h</file>
+      <file>$PROJ_DIR$\..\..\inc\hw_apps_rcm.h</file>
+      <file>$PROJ_DIR$\Release\Obj\MF-L1_Mifare_GPIO .pbd</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\udma_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\utils_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\uart_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\MF-L1_Mifare_GPIO.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\i2c_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 89 63 67 45 51 84 33 46 75 73 68 87 62 83 52 82 69 34 85 88 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67 43 66 89 40 88 69 78 29 62 75 74 32 71 44 63 45 85 79 11 39 36 41 80 86 83 51 82 47 72 18 91 42 77 84 81 56 48 73 68 38 35 90 17 76 33 34 30 37 65 50 61 31 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\timer_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\common\startup_ewarm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\gpio_if.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 92 71 48 34 45 83 67 75 49 62 51 47 77 82 42 85 73 89 63 68 88 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pinmux.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 67 51 75 62 64 82 77 88 78</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\simplelink\source\nonos.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 37 80 65 85 89 34 40 16 30 86 50 45 38 73 70 79 11 35 29 90 39 17 36 63 68</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+

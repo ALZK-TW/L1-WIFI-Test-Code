@@ -1,0 +1,92 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-583654409
+[CodeCoverage]
+Enabled=_ 0
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[LMIFTDIDriver]
+LMIFTDIserialNo=cc3101A
+LMIFTDIfoundProbes=
+LMI_ResetMode=0x00000000
+LMI_LeaveTargetRunning=0x00000000
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[InterruptLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemConfig]
+Base=1
+Manual=0
+Ddf=1
+TypeViol=0
+Stop=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[Simulator]
+Freq=10000000
+MultiCoreRunAll=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "C:\TI\CC3200SDK_1.2.0\cc3200-sdk\example\alzk_MF-D1_0522-lib\RC522.C" ""
+A1=_ "C:\TI\CC3200SDK_1.2.0\cc3200-sdk\example\alzk_MF-D1_0522-lib\TI_aes_128.c" ""
+A2=_ "C:\TI\CC3200SDK_1.2.0\cc3200-sdk\example\alzk_MF-D1_1108-lib\RC522.C" ""
+A3=_ "C:\TI\CC3200SDK_1.2.0\cc3200-sdk\example\alzk_MF-D1_1108-lib\TI_aes_128.c" ""
+A4=_ "C:\TI\CC3200SDK_1.2.0\cc3200-sdk\example\alzk_MF-D1_1108-lib\iso14443a.c" ""
+A5=_ "D:\R1\git\source-1p2-rahul\driverlib\gpio.c" ""
+A6=_ "D:\R1\git\source-1p2-rahul\driverlib\hwspinlock.c" ""
+A7=_ "D:\R1\git\source-1p2-rahul\driverlib\i2c.c" ""
+A8=_ "D:\R1\git\source-1p2-rahul\driverlib\interrupt.c" ""
+A9=_ "D:\R1\git\source-1p2-rahul\driverlib\prcm.c" ""
+A10=_ "D:\R1\git\source-1p2-rahul\driverlib\timer.c" ""
+A11=_ "D:\R1\git\source-1p2-rahul\driverlib\uart.c" ""
+A12=_ "D:\R1\git\source-1p2-rahul\driverlib\utils.c" ""
+Count=13
+SuppressDialog=0
